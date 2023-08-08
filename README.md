@@ -300,4 +300,6 @@ ZENUSDT
 ZILUSDT
 ZRXUSDT
 
+## Citation
+[Ehsan Babaei]. "CryptoCurrency 5min Interval Dataset: For Deep Learning Crypto Predictions" [2021]. [https://github.com/babaee74], version [V1.0]. [https://github.com/babaee74/crypto-dataset/].
 
